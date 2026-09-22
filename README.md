@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🧑‍💻 I'm a 3rd year CS major from UPLB  
+- 🧑‍💻 I'm a 4rd year CS major from UPLB  
 - 🖌️ Exploring designing user-friendly interfaces  
 - 🧠 Always learning something new (For real)
 
